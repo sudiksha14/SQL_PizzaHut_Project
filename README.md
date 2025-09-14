@@ -1,4 +1,4 @@
-### 🍕 SQL Project – Pizza Hut Sales Analysis
+# 🍕 SQL Project – Pizza Hut Sales Analysis
 
 # 📌 Project Overview
 
