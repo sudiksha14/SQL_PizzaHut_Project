@@ -1,14 +1,15 @@
-🍕 # SQL Project – Pizza Hut Sales Analysis
-📌 Project Overview
+### 🍕 SQL Project – Pizza Hut Sales Analysis
+
+# 📌 Project Overview
 
 This project focuses on analyzing a Pizza Hut sales dataset using SQL. The goal is to extract business insights from raw transactional data by writing efficient SQL queries.
 It covers queries from basic to advanced level, demonstrating how SQL can help answer real-world business questions.
 
-🔎 Objectives
+# 🔎 Objectives
 
 The analysis is divided into three levels:
 
-Basic Queries
+**Basic Queries**
 
 Retrieve the total number of orders placed
 
@@ -20,7 +21,7 @@ Find the most common pizza size ordered
 
 List the top 5 most ordered pizzas with quantities
 
-Intermediate Queries
+**Intermediate Queries**
 
 Find the total quantity of each pizza category ordered
 
@@ -32,7 +33,7 @@ Calculate the average number of pizzas ordered per day
 
 Find the top 3 pizzas by revenue
 
-Advanced Queries
+**Advanced Queries**
 
 Calculate the % contribution of each pizza type to total revenue
 
@@ -40,7 +41,7 @@ Analyze cumulative revenue generated over time
 
 Find the top 3 pizzas by revenue in each category
 
-🛠️ Skills & Concepts Practiced
+# 🛠️ Skills & Concepts Practiced
 
 SQL Clauses: SELECT, WHERE, GROUP BY, ORDER BY, LIMIT
 
@@ -52,7 +53,7 @@ Date & Time Functions: Extracting hourly and daily order trends
 
 Business Analysis: Identifying sales patterns, top products, and revenue drivers
 
-📊 Key Insights
+# 📊 Key Insights
 
 Peak order times help in staffing & operations planning
 
@@ -62,11 +63,11 @@ Revenue contribution analysis supports pricing & inventory decisions
 
 Cumulative revenue trend gives a clear view of growth over time
 
-🙏 Acknowledgement
+# 🙏 Acknowledgement
 
 Special thanks to Ayushi Jain Ma’am (WScube Tech YouTube) 🎓 for the tutorials and guidance that inspired and supported this project.
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 Visualizing results using Power BI / Tableau
 
@@ -74,6 +75,6 @@ Automating query execution with Python scripts
 
 Adding more datasets for cross-analysis
 
-📢 Connect
+# 📢 Connect
 
-💼 Let’s connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sudiksha14/) to discuss SQL, Data Analytics, and Business Insights!
+💼 Let’s connect on 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/sudiksha14/) to discuss SQL, Data Analytics, and Business Insights!
